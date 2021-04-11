@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+}
+.container {
+  width: 100%;
+}
+.box1 {
+  display: block;
+  border: 2px solid black;
+  font-size: 20px;
+  width: 300px;
+  margin: 20px auto;
+  text-align: center;
+}
+.box2 {
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+  justify-content: center;
+  width: 500px;
+  border: 2px solid black;
+  text-align: center;
+}
